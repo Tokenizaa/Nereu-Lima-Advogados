@@ -1,0 +1,6 @@
+{
+  "name": "Nereu Lima Advogados — Plataforma Digital",
+  "description": "Plataforma digital institucional do escritório Nereu Lima Advogados Associados. Tradição, autoridade e excelência em Direito Penal e Processo Penal há mais de 50 anos em Porto Alegre e Tribunais Superiores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
